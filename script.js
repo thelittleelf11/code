@@ -45,11 +45,11 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "https://github.com/thelittleelf11/code/blob/a5cf648c85f779e635277bd0afd41d91dcd0dd2e/beabadoobee%20-%20Dance%20with%20Me.mp3",
-      "https://github.com/thelittleelf11/code/blob/a5cf648c85f779e635277bd0afd41d91dcd0dd2e/Moonlight.mp3",
-      "https://github.com/thelittleelf11/code/blob/a5cf648c85f779e635277bd0afd41d91dcd0dd2e/04.%20Lips.mp3",
-      "https://github.com/thelittleelf11/code/blob/a5cf648c85f779e635277bd0afd41d91dcd0dd2e/Daniel%20Caesar%20-%20Get%20You%20(feat.%20Kali%20Uchis).mp3",
-      "https://github.com/thelittleelf11/code/blob/a5cf648c85f779e635277bd0afd41d91dcd0dd2e/Sabrina%20Carpenter%20-%20Nonsense%20(Official%20Audio).mp3"
+      "https://thelittleelf11.github.io/songs/dancewithme.mp3",
+      "https://thelittleelf11.github.io/songs/moonlight.mp3",
+      "https://thelittleelf11.github.io/songs/lips.mp3",
+      "https://thelittleelf11.github.io/songs/getyou.mp3",
+      "https://thelittleelf11.github.io/songs/nonsense.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
