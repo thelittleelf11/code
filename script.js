@@ -40,7 +40,7 @@ $(function () {
       "beabadoobee",
       "ariana grande",
       "ive",
-      "daniel ceasar ft. kali uchis",
+      "daniel caesar ft. kali uchis",
       "sabrina carpenter"
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
