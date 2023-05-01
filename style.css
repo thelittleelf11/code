@@ -40,7 +40,7 @@ body {
   bottom: 0;
   left: 0;
   background-color: #fff;
-  opacity: 0.51;
+  opacity: 100;
   z-index: 2;
 }
 
